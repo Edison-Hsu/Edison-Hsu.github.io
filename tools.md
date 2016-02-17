@@ -17,9 +17,6 @@ permalink: /tools/
 ### Go2Shell
 从Finder到Terminal
 
-### Iterm2
-Terminal强化版，谁用谁知道
-
 ## IDE篇
 
 ### RubyMine

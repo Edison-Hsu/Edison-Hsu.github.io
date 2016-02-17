@@ -3,6 +3,22 @@ layout: page
 title: Tools
 permalink: /tools/
 ---
+## 系统篇(Mac OS X)
+
+### One Password
+好用的密码管理工具，用惯了就再也离不开了
+
+### Dash
+文档工具，是开发的都应该用。
+
+### Alfred
+系统自带spotlight的强化版本，workflow还能自定各种工具。暂时还没付费，免费功能都很强。
+
+### Go2Shell
+从Finder到Terminal
+
+### Iterm2
+Terminal强化版，谁用谁知道
 
 ## IDE篇
 

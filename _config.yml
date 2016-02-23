@@ -10,3 +10,6 @@ github_username:  Edison-Hsu
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap

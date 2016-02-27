@@ -6,6 +6,7 @@ categories: 读书 总结 笔记
 ---
 
 现学现用，以后的读书笔记多试试用mindmap做
+
 使用的工具是mindnode v2，体验感觉还不错
 
 {% include image.html

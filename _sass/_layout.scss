@@ -238,3 +238,14 @@
 .post-footer {
   margin-top: $spacing-unit * 1.5;
 }
+
+
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+    }
+}
+

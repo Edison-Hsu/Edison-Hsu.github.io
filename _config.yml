@@ -8,6 +8,8 @@ url: "http://blog.edison-hsu.com" # the base hostname & protocol for your site
 twitter_username: _Edison_Hsu_
 github_username:  Edison-Hsu
 
+timezone: 'China/Shanghai'
+
 # Build settings
 markdown: kramdown
 

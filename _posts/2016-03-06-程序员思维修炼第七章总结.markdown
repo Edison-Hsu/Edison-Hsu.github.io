@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "《程序员思维修炼》第七章小结"
+date:   2016-03-06 
+categories: 读书 总结 笔记
+---
+
+### 第七章-积累经验
+主要的收获是探索-实践-应用的学习流。
+回想之前学习一些编程方面的只是也的确如此。只有在大量练习之后才能融会贯通。
+
+{% include image.html
+            img="images/程序员的思维修炼-第七章.png"
+            title="mind map"
+            url="/images/程序员的思维修炼-第七章.png" %}
+

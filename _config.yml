@@ -4,9 +4,10 @@ email: 263113565#qq.com
 description: > # this means to ignore newlines until "baseurl:"
   Edison Hsu's Personal Blog.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.edison-hsu.com" # the base hostname & protocol for your site
+url: "http://edison-hsu.com" # the base hostname & protocol for your site
 twitter_username: _Edison_Hsu_
 github_username:  Edison-Hsu
+permalink: /blog/:year/:month/:day/:title
 
 timezone: 'China/Shanghai'
 

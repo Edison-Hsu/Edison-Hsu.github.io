@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "《程序员思维修炼》第七章小结"
-date:   2016-03-06 
+date:   2016-03-05 
 categories: 读书 总结 笔记
 ---
 

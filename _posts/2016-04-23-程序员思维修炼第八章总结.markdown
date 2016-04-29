@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "《程序员思维修炼》第八章小结"
-date:   2016-04-24
+title: 《程序员思维修炼》第八章小结
+date: {}
 categories: 读书 总结 笔记
+published: true
 ---
 
 

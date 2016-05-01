@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 折腾代码审查的日子
-date: 2016-04-30T01:44:00.000+08:00
+date: 2016-04-30T01:44:00+08:00
 categories: 总结 代码审查
 published: true
 ---

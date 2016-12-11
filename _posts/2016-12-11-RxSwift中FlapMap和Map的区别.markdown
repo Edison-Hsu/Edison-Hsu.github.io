@@ -11,6 +11,7 @@ published: true
 
 ## Swift中的FlatMap和Map
 首先来看看 Swift 中的 FlatMap 和 Map 这两个语言原生的概念，来看下面代码:
+
 ```
 let array = [1,2,3,4,5]
 
@@ -28,6 +29,7 @@ print(maped2) // [[1, 2, 3, 4, 5], [6, 7]]
 let flaped2 = arrayNested.flatMap { $0 }
 print(flaped2) // [1, 2, 3, 4, 5, 6, 7]
 ```
+
 在这个例子中，区别很明显，就是当数组是嵌套数组的时候，这个时候 flatMap 会将数组中的元素压平，这就是最简单的例子。
 
 ## 迭代器

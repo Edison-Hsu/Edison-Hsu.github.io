@@ -16,3 +16,5 @@ markdown: kramdown
 
 gems:
   - jekyll-sitemap
+
+theme: jekyll-theme-midnight
